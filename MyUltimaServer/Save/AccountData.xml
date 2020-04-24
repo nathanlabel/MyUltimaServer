@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Accounts>
+  <Account>
+    <Username>abeln</Username>
+    <Password>R0ch35t3r</Password>
+    <CharacterList>
+      <Character Name="Garret Jax" Serial="0x01" />
+      <Character Name="Boris Vlat" Serial="0x02" />
+    </CharacterList>
+  </Account>
+  <Account>
+    <Username>Bob</Username>
+    <Password>1pa$$word</Password>
+  </Account>
+</Accounts>
